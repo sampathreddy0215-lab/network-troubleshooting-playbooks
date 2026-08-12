@@ -31,3 +31,12 @@ A collection of troubleshooting guides and operational runbooks for enterprise n
 - Palo Alto NGFW
 - DNS
 - Enterprise Routing & Switching
+
+## Packet and Path Troubleshooting
+
+- MTU and Path MTU Troubleshooting
+- DF-Bit Testing
+- TCP MSS Validation
+- Fragmentation Analysis
+- Interface Error Analysis
+- Packet Capture Validation
